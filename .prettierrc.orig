@@ -1,9 +1,0 @@
-{
-  "singleQuote": true,
-<<<<<<< HEAD
-  "trailingComma": "all",
-  "endOfLine": "auto"
-=======
-  "trailingComma": "all"
->>>>>>> main
-}
